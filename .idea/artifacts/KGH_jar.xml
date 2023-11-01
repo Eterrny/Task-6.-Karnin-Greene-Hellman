@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KGH:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KGH_jar</output-path>
+    <root id="archive" name="KGH.jar">
+      <element id="module-output" name="Task 6. Karnin-Greene-Hellman" />
+    </root>
+  </artifact>
+</component>
